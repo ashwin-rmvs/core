@@ -51,7 +51,7 @@
      <TimePM>PM</TimePM>
      <MeasurementSystem>Metric</MeasurementSystem>
      </LC_CTYPE>
-       <LC_FORMAT replaceFrom="[CURRENCY]" replaceTo="[$₹-439]">
+       <LC_FORMAT replaceFrom="[CURRENCY]" replaceTo="[$₹-४३९]">
        <DateAcceptancePattern>D-M</DateAcceptancePattern>
        <FormatElement msgid="DateFormatskey1" default="true" type="short" usage="DATE" formatindex="18">
        <FormatCode>D-M-YY</FormatCode>
@@ -199,9 +199,9 @@
       <LC_COLLATION ref="en_US"/>
       <LC_SEARCH ref="en_US"/>
       <LC_INDEX>
-         <IndexKey unoid="alphanumeric" default="true" phonetic="false">अ-ऍ ए  ॲ  ऐ  ऑ ओ-न प-र ल व-ह ळ क्ष ज्ञ ॠ
+         <IndexKey unoid="alphanumeric" default="true" phonetic="false">अ-ऍ ए ॲ ऐ ऑ ओ-न प-र ल व-ह ळ क्ष ज्ञ ॠ
          </IndexKey>
-         <UnicodeScript>14</UnicodeScript>
+         <UnicodeScript>17</UnicodeScript>
          <FollowPageWord>p.</FollowPageWord>
          <FollowPageWord>pp.</FollowPageWord>
       </LC_INDEX>
@@ -215,8 +215,8 @@
             </Day>
             <Day>
                <DayID>mon</DayID>
-               <DefaultAbbrvName>सॊम.</DefaultAbbrvName>
-               <DefaultFullName>सॊमवार्</DefaultFullName>
+               <DefaultAbbrvName>सोम.</DefaultAbbrvName>
+               <DefaultFullName>सोमवार</DefaultFullName>
             </Day>
             <Day>
                <DayID>tue</DayID>
@@ -352,7 +352,7 @@
          <ReservedWords>
           <trueWord>बरोबर</trueWord>
           <falseWord>चूक</falseWord>
-          <quarter1Word>पॆहला हंत 1</quarter1Word>
+          <quarter1Word>पहिले प्रहर १</quarter1Word>
           <quarter2Word>दूसरा हंत 2</quarter2Word>
           <quarter3Word>तीसरा हंत 3</quarter3Word>
           <quarter4Word>चौता हंत 4</quarter4Word>
